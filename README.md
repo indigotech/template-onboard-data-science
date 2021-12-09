@@ -40,3 +40,9 @@ The last line pushes your changes to the remote repository, to the branch indica
 ## Task 2
 Now that you know how to commit your changes, open your notebook locally and let's start coding :)
 
+Spoiler: at this onboarding version, we will be using the Palmer Penguins dataset
+
+Horst AM, Hill AP, Gorman KB (2020). palmerpenguins: Palmer
+   Archipelago (Antarctica) penguin data. R package version 0.1.0.
+   https://allisonhorst.github.io/palmerpenguins/. doi:
+   10.5281/zenodo.3960218.

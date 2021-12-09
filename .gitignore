@@ -1,0 +1,10 @@
+# python cache
+__pycache__
+
+# notebook files
+.DS_Store
+.ipynb_checkpoints/
+autocorrectors/__pycache__/
+
+#notebooks
+onboard-part-2-answers.ipynb
