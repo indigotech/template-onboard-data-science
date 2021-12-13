@@ -6,5 +6,9 @@ __pycache__
 .ipynb_checkpoints/
 autocorrectors/__pycache__/
 
-#notebooks
+# notebooks
 onboard-part-2-answers.ipynb
+onboard-part-3-answers.ipynb
+
+# data
+data/penguins_prepared_dataset.csv

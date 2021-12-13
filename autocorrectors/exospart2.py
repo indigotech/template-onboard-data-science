@@ -1,4 +1,4 @@
-def part2exo1(rows, columns):
+def part2exo2(rows, columns):
     rightrows = 344
     rightcolumns = 6
 
@@ -12,7 +12,7 @@ def part2exo1(rows, columns):
         print("Please, try again")
 
 
-def part2exo3(answer):
+def part2exo4(answer):
     rightanswer = 43.90552325581396
     if answer > rightanswer - 0.1 and answer < rightanswer + 0.1:
         print("Good job!")
@@ -20,7 +20,7 @@ def part2exo3(answer):
         print("Oups, try again!")
 
 
-def part2exo7(hcorr, lcorr):
+def part2exo10(hcorr, lcorr):
     righthcorr = 'body_mass_g'
     rightlcorr = 'culmen_depth_mm'
     
