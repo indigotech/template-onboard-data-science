@@ -8,7 +8,7 @@ Firstly, you may install some tools:
 * [Jupyter Notebook or JupyterLab](https://jupyter.org/) or [Anaconda](https://www.anaconda.com/products/individual)
 
 Before installing, check if you already have them in your computer.
-Now, let's go to our next step: cloning this repository.
+Now, let's go to our next step: using [git](https://git-scm.com/) and cloning this repository.
 
 In order to update and manipulate the files in this repository in your personal computer, you should clone it.
 At the top of the page, you will find a green button `code`, where you will see the https link of the repo. Copy the link, go to your terminal, find a place to put your repo and type:
@@ -17,12 +17,18 @@ At the top of the page, you will find a green button `code`, where you will see 
 > git clone <repo link>
 ```
 
+If you do not feel comfortable using git and GitHub, we invite you to take a look at these resources:
+* https://docs.github.com/en/get-started/quickstart/set-up-git
+* https://www.atlassian.com/git/tutorials
+* https://learngitbranching.js.org/
+
+
 Great! Now, you can access the local repository.
 
 You can see that there are many files and folders in the repository.
 * README.md: this file you are reading :)
 * onboard-part-1.ipynb, onboard-part-2.ipynb, onboard-part-3.ipynb: the Jupyter Notebooks we will use during the onboarding
-* .gitignore: this file is used to indicate which files and folders from this repo should not be pushed into the remote repository. Cache files and copies of databases that you are using locally are, for instance, contents you may not add in the repo
+* [.gitignore](https://git-scm.com/docs/gitignore): this file is used to indicate which files and folders from this repo should not be pushed into the remote repository. Cache files and copies of databases that you are using locally are, for instance, contents you may not add in the repo
 * data/: contain the dataset we will use in the project
 * autocorrectors/: contain functions that will be used along the notebooks. Do not change its content!
 
