@@ -12,3 +12,6 @@ onboard-part-3-answers.ipynb
 
 # data
 data/penguins_prepared_dataset.csv
+
+# other files
+autocorrectors/hashgenerator.py
