@@ -59,6 +59,15 @@ The last line pushes your changes to the remote repository, to the branch indica
 ## Task 2
 Now that you know how to commit your changes, open your notebook locally and let's start coding :)
 
+It is easier to use Notebooks in other applications instead of VSCode. Let's try Jupyter Notebook for now. Open the terminal and type:
+
+```
+> jupyter notebook
+```
+It will open a window in your browser so you can navigate through your folders. Whenever you need to commit or push your changes, open a new terminal window and type the same git commands used beforehand.
+
+<br>
+
 Spoiler: at this onboarding version, we will be using the Palmer Penguins dataset
 
 Horst AM, Hill AP, Gorman KB (2020). palmerpenguins: Palmer<br>
